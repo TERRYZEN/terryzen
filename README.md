@@ -51,13 +51,3 @@ Halo! Saya **Omar Terry Putra (Terry)**, mahasiswa **Horizon University** yang m
 | **[CafeOrderingSystem](https://github.com/TERRYZEN)** | Sistem pemesanan kafe & katering berbasis CLI dengan format mata uang Rupiah kustom. | Java CLI |
 | **[Portfolio Web](https://github.com/TERRYZEN)** | Halaman profil web *single-page* bertema modern *dark mode*. | HTML5, CSS3, ScrollReveal |
 
----
-
-### 📊 Statistik GitHub
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=TERRYZEN&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=4f46e5&title_color=818cf8&icon_color=a78bfa&text_color=cbd5e1" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TERRYZEN&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=4f46e5&title_color=818cf8&text_color=cbd5e1" />
-
-</div>
