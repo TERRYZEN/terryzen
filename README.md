@@ -13,12 +13,11 @@
 
 ### 🧑‍💻 Tentang Saya
 
-Halo! Saya **Omar Terry Putra (Terry)**, mahasiswa **Universitas Terbuka** yang mendalami bidang **Matematika** dan **Pemrograman Komputer**. Saya tertarik membangun aplikasi yang fungsional sekaligus memiliki tampilan visual yang rapi dengan estetika *dark mode*.
+Halo! Saya **Omar Terry Putra (Terry)**, mahasiswa **Horizon University** yang mendalami bidang **Informatika** dan **Pemrograman Komputer**.
 
 - 🔭 Saat ini sedang mengembangkan **[DompetGueh](https://github.com/TERRYZEN/DompetGueh)**, aplikasi dompet digital berbasis Android.
 - 💻 Sehari-hari bekerja dan bereksperimen di lingkungan **Ubuntu Linux** (kustomisasi *Conky*, konfigurasi *Wine/PortProton*, dan otomasi skrip).
 - 🎨 Selain *coding*, saya juga aktif di bidang **desain grafis**, **penyuntingan video (CapCut & OBS Studio)**, serta *retouching* fotografi.
-- 🇯🇵 Sedang mempelajari dasar-dasar bahasa Jepang (*kanji* dan pola kalimat dasar).
 
 ---
 
