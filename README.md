@@ -48,6 +48,6 @@ Halo! Saya **Omar Terry Putra (Terry)**, mahasiswa **Horizon University** yang m
 | Proyek | Deskripsi | Teknologi |
 | :--- | :--- | :--- |
 | **[DompetGueh](https://github.com/TERRYZEN/DompetGueh)** | Aplikasi pencatatan keuangan & dompet digital mobile lengkap dengan rilis paket APK. | Android, GitHub Releases |
-| **[CafeOrderingSystem](https://github.com/TERRYZEN)** | Sistem pemesanan kafe & katering berbasis CLI dengan format mata uang Rupiah kustom. | Java CLI |
-| **[Portfolio Web](https://github.com/TERRYZEN)** | Halaman profil web *single-page* bertema modern *dark mode*. | HTML5, CSS3, ScrollReveal |
+| **[CafeOrderingSystem](https://github.com/SIXENSES/PBO-Project_SIXENSE)** | Sistem pemesanan kafe & katering berbasis CLI dengan format mata uang Rupiah kustom. | Java CLI |
+| **[Portfolio Web](https://github.com/SIXENSES/SIXENSES-PORTOFOLIO)** | Halaman profil web *single-page* bertema modern *dark mode*. | HTML5, CSS3, ScrollReveal |
 
