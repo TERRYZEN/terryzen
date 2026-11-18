@@ -45,7 +45,7 @@ Halo! Saya **Omar Terry Putra (Terry)**, mahasiswa **Horizon University** yang m
 <p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff" />
-  <img src=https://img.shields.io/github/deployments/terryzen/terryzen/production/flat-square" />
+  <img src=https://img.shields.io/github/deployments/TERRYZEN/production/flat-square" />
 </p>  
 ---
 
