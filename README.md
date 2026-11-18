@@ -43,10 +43,12 @@ Halo! Saya **Omar Terry Putra (Terry)**, mahasiswa **Horizon University** yang m
 
 **Web Deployment**
 <p align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff" />
-  [![GitHub](https://img.shields.io/badge/GitHub-TERRYZEN-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TERRYZEN)
-</p>  
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <a href="https://github.com/TERRYZEN">
+    <img src="https://img.shields.io/badge/GitHub-TERRYZEN-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 ---
 
 ### 🚀 Proyek Pilihan
