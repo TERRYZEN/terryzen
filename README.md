@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4338ca,100:7c3aed&height=200&section=header&text=Hi,%20I'm%20Terry%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Linux%20Enthusiast%20%7C%20Digital%20Creator&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ee5539&section=header&reversal=true&text=Hello%2C+I%27m+Terry&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=38&rotate=0&strokeWidth=0&desc=Junior+Developer+%7C+Linux+Enthusiast+%7C+Graphics+Designer&descSize=20&descAlign=50&descAlignY=54" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-TERRYZEN-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TERRYZEN)
-[![OS](https://img.shields.io/badge/OS-Ubuntu%20Linux-7c3aed?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+[![OS](https://img.shields.io/badge/OS-Ubuntu%20Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![Focus](https://img.shields.io/badge/Focus-Software%20%26%20Design-2563eb?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
 
 </div>
@@ -46,15 +46,17 @@ Halo! Saya **Omar Terry Putra (Terry)**, mahasiswa **Horizon University** yang m
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <a href="https://github.com/TERRYZEN">
-    <img src="https://img.shields.io/badge/GitHub-TERRYZEN-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub.io-4f46e5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 ---
 
 ### 🚀 Proyek Pilihan
 
-| Proyek | Deskripsi | Teknologi |
+| Proyek | Deskripsi | Toold & Use |
 | :--- | :--- | :--- |
+| **[Pathz](https://github.com/TERRYZEN/Pathz)** | Aplikasi untuk Kompres video kamu menjadi ukuran yang lebih ringan | Android, Kotlin, Github Realeases |
 | **[DompetGueh](https://github.com/TERRYZEN/DompetGueh)** | Aplikasi pencatatan keuangan & dompet digital mobile lengkap dengan rilis paket APK. | Android, GitHub Releases |
 | **[CafeOrderingSystem](https://github.com/SIXENSES/PBO-Project_SIXENSE)** | Sistem pemesanan kafe & katering berbasis CLI dengan format mata uang Rupiah kustom. | Java CLI |
 | **[Portfolio Web](https://github.com/SIXENSES/SIXENSES-PORTOFOLIO)** | Halaman profil web *single-page* bertema modern *dark mode*. | HTML5, CSS3, ScrollReveal |
