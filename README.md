@@ -15,7 +15,7 @@
 
 Halo! Saya **Omar Terry Putra (Terry)**, mahasiswa **Horizon University** yang mendalami bidang **Informatika** dan **Pemrograman Komputer**.
 
-- 🔭 Saat ini sedang mengembangkan **[DompetGueh](https://github.com/TERRYZEN/DompetGueh)**, aplikasi dompet digital berbasis Android.
+- 🔭 Saat ini sedang mengembangkan **[DompetGueh](https://github.com/TERRYZEN/DompetGueh), dan [Pathz](https://github.com/TERRYZEN/Pathz).**
 - 💻 Sehari-hari bekerja dan bereksperimen di lingkungan **Ubuntu Linux** (konfigurasi *Wine/PortProton*, dan otomasi skrip).
 - 🎨 Selain *coding*, saya juga aktif di bidang **desain grafis (Canva, PicsArt, Affinity), penyuntingan video (CapCut & OBS Studio)**, serta **photo editing (Lightroom, Light Distortion, Snapseed, PicsArt).**
 
