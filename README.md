@@ -38,7 +38,9 @@ Halo! Saya **Omar Terry Putra (Terry)**, mahasiswa **Horizon University** yang m
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=bytedance&logoColor=white" />
+  <br><img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=bytedance&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?style=for-the-badge&logo=affinitystudio&logoColor=black" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Canva-2563eb.svg?style=for-the-badge&logo=canva&logoColor=white" /></p></br>
 </p>
 
 **Web Deployment**
