@@ -43,7 +43,7 @@ Halo! Saya **Omar Terry Putra (Terry)**, mahasiswa **Horizon University** yang m
   <img src="https://custom-icon-badges.demolab.com/badge/Canva-2563eb.svg?style=for-the-badge&logo=canva&logoColor=white" /></p></br>
 </p>
 
-**Web Deployment**
+### 🔗 Web Deployment
 <p align="left">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
